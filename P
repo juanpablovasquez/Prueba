@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhR8h88HmP7QUkqCLyaqj0j_tMU5VMzz5Iw&usqp=CAU" group-title="1-ACCION juanpablo", JP:PRUEBA
+https://s30.ll1.lat/0:/s/black_knight/black_knight_1x01.mp4
