@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2023/05/fubar-2023-netflix-series-review.jpg" group-title="1-ACCION juanpablo", JP:1X1 FUBAR
 https://s30.ll1.lat/0:/s/fubar/fubar_1x01.mp4
 
-#EXTINF:-1 tvg-logo="https://impactovenezuela.com/wp-content/uploads/2023/05/fubar-1024x512.jpg" group-title="1-ACCION juanpablo", JP:1X2 FUBAR
+#EXTINF:-1 tvg-logo="https://watchviews.com/wp-content/uploads/2023/06/ab13f59982825c501439d675e5844913ccd2ebac-800x450.webp" group-title="1-ACCION juanpablo", JP:1X2 FUBAR
 https://s30.ll1.lat/0:/s/fubar/fubar_1x02.mp4
 
 #EXTINF:-1 tvg-logo="https://impactovenezuela.com/wp-content/uploads/2023/05/fubar-1024x512.jpg" group-title="1-ACCION juanpablo", JP:1X3 FUBAR
