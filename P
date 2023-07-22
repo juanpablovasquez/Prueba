@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uYPbbksJxIg/maxresdefault.jpg" group-title="7-DOCUMENTAL juanpablo", JP:OPPENHEIMER EL DILEMA DE LA BOMBA ATOMICA
+http://208.88.245.81/nuevo/oppenheimer.el.dilema.delabomba.atomica.dual2023.mkv
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9UTOPKxpL6sFgHrWvQoj4iYzar15LnqovAg&usqp=CAU" group-title="1-ACCION juanpablo", JP:OPPENHEIMER EL DILEMA DE LA BOMBA ATOMICA
 http://208.88.245.81/nuevo/oppenheimer.el.dilema.delabomba.atomica.dual2023.mkv
 
