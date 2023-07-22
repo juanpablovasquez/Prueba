@@ -8,8 +8,13 @@ https://planetaweb.xyz/movs/junio06/barbie.mp4
 https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYmFyYmllLTIwMjM=
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uYPbbksJxIg/maxresdefault.jpg" group-title="7-DOCUMENTAL juanpablo", JP:OPPENHEIMER EL DILEMA DE LA BOMBA ATOMICA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJnQLpBOQ1B1NL-HghZfJjusAT6F_mTBRVWA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:OPPENHEIMER LA VIDA DEL CREADOR DE LA BOMBA NUCLEAR
 https://planetaweb.xyz/movs/junio06/oppenheimer.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uYPbbksJxIg/maxresdefault.jpg" group-title="7-DOCUMENTAL juanpablo", JP:OPPENHEIMER EL DILEMA DE LA BOMBA ATOMICA
+http://208.88.245.81/nuevo/oppenheimer.el.dilema.delabomba.atomica.dual2023.mkv
 
 
 
