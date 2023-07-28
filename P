@@ -1,11 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://noticine.com/images/0000AFotos0218/fantasticwoman0218.jpg" group-title="6-DRAMA juanpablo", JP:UNA MUJER FANTASTICA SD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiBhmqPsa2PDRZDiTRydNIKCvLLTC6qXqpyQ&usqp=CAU" group-title="6-DRAMA juanpablo", JP:UNA MUJER FANTASTICA SD
 https://jewo.vizcloud.co/simple/EqPFJvkQWADtjDlGha7rC5curlwDuOG0Tkx7rqk+wYkqUtAcS2El_Po4w12gXe6GqtKNRtc_/br/H1/v.m3u8
 
-#EXTINF:-1 tvg-logo="https://noticine.com/images/0000AFotos0218/fantasticwoman0218.jpg" group-title="6-DRAMA juanpablo", JP:UNA MUJER FANTASTICA HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiBhmqPsa2PDRZDiTRydNIKCvLLTC6qXqpyQ&usqp=CAU" group-title="6-DRAMA juanpablo", JP:UNA MUJER FANTASTICA HD
 https://jewo.vizcloud.co/simple/EqPFJvkQWADtjDlGha7rC5curlwDuOG0Tkx7rqk+wYkqUtAcS2El_Po4w12gXe6GqtKNRtc_/br/H3/v.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/777F0A69DC59BC7E02423B1443993BDD1D1637565F98F12BDA2CD7015BDB5FCC/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="6-DRAMA juanpablo", JP:SIMON BIRCH EL INOLVIDABLE SIMON BIRCH
 https://vod-progressive.akamaized.net/exp=1690446930~acl=%2Fvimeo-transcode-storage-prod-us-west1-h264-360p%2F01%2F1529%2F4%2F107648580%2F292842356.mp4~hmac=08848ca9834a2821a1b457c2edfbd9f24050ec43312aa9cfb50e16dee0c0f05b/vimeo-transcode-storage-prod-us-west1-h264-360p/01/1529/4/107648580/292842356.mp4
