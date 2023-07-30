@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fgv5YPAYou0/sddefault.jpg" group-title="2-SUSPENSO juanpablo", JP:CURVE 2016
+https://vod-progressive.akamaized.net/exp=1690679733~acl=%2Fvimeo-transcode-storage-prod-us-west1-h264-1080p%2F01%2F4364%2F8%2F221821296%2F774208123.mp4~hmac=580c9d949556af97e7ce4296aca6637470fa7c4b739ef9df3201ab7df39c1618/vimeo-transcode-storage-prod-us-west1-h264-1080p/01/4364/8/221821296/774208123.mp4
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiBhmqPsa2PDRZDiTRydNIKCvLLTC6qXqpyQ&usqp=CAU" group-title="6-DRAMA juanpablo", JP:UNA MUJER FANTASTICA SD
 https://jewo.vizcloud.co/simple/EqPFJvkQWADtjDlGha7rC5curlwDuOG0Tkx7rqk+wYkqUtAcS2El_Po4w12gXe6GqtKNRtc_/br/H1/v.m3u8
 
