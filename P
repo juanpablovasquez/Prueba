@@ -1,5 +1,32 @@
 #EXTM3U
 
+DOBLE DISCURSO OPC1
+https://s07.ll1.lat/0:/p/doble_discurso_espanol_2023.mp4
+ 
+ 
+DOBLE DISCURSO SD
+https://pc-11.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/df54bd60a558b8ecd39f9cd07a3bccf5/EP.0.2.v0.1691208557.360.m3u8
+ 
+ 
+DOBLE DISCURSO HD
+https://pc-11.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/df54bd60a558b8ecd39f9cd07a3bccf5/EP.0.2.v0.1691208557.720.m3u8
+ 
+ 
+ 
+ 
+OY LEYENDA SD
+ 
+https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5da312795b2bfb8579b2eab994dd93f5/EP.0.1.v0.1678428951.360.m3u8
+ 
+ 
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStHutUY4NyI3-t3BO9snh07cJLTQPKxxehQ&usqp=CAU" group-title="Z3-SUPER DRAGS juanpablo", JP:1X1 SUPER DRAGS
 https://pc-20.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0902d1a4097675528eee71199f3f0036/EP.1.1.v0.1677456389.360.m3u8
 
