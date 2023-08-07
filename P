@@ -1,5 +1,7 @@
 #EXTM3U
 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxgw6PBxskFDg0HM19ac5MvGb2NWVbD5Y1pw&usqp=CAU
+
 DOBLE DISCURSO OPC1
 https://s07.ll1.lat/0:/p/doble_discurso_espanol_2023.mp4
  
