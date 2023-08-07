@@ -1,5 +1,10 @@
 #EXTM3U
 
+https://pc-23.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/f1eeba229b3a35bbe56c430dd08bbe4d/EP.0.2.v0.1687461964.360.m3u8
+
+https://pc-23.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/f1eeba229b3a35bbe56c430dd08bbe4d/EP.0.2.v0.1687461964.720.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTuTZ8pdtpXR2r9bc9CSokiBc2Mdg1rRmDA&usqp=CAU" group-title="Z42-EL MINISTERIO DEL TIEMPO juanpablo", JP:1X1 EL MINISTERIO DEL TIEMPO
 https://pjgk.vizcloud.co/simple/EqPFIfIQWADtjDlGha7rC5Au+1xb5_7zTR57rqk+wYkqUtAcS2El_Po4w12gXe6GqtKNRtc_/br/H3/v.m3u8
 
