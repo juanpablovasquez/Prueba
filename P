@@ -1,3 +1,291 @@
+JuanPablo:
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSADd6rxtLHQZlqEsxz7zfKymR5RByg18CB5g&usqp=CAU" group-title="1-ACCION juanpablo", JP:ASEDIO SD
+https://pc-15.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6b04c2b6e758f3b78f3dd8ad22a263a7/EP.0.2.v1.1690772318.360.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSADd6rxtLHQZlqEsxz7zfKymR5RByg18CB5g&usqp=CAU" group-title="1-ACCION juanpablo", JP:ASEDIO HD
+https://pc-15.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6b04c2b6e758f3b78f3dd8ad22a263a7/EP.0.2.v1.1690772318.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTwt5tHU1pEcnndGI6YYb-QHsOhaH3_Vgug&usqp=CAU" group-title="1-ACCION juanpablo", JP:AGENTE STONE SD
+https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c369ee462e750fe42c54f4d391c9573b/EP.0.2.v0.1691854732.360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTwt5tHU1pEcnndGI6YYb-QHsOhaH3_Vgug&usqp=CAU" group-title="1-ACCION juanpablo", JP:AGENTE STONE HD
+https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c369ee462e750fe42c54f4d391c9573b/EP.0.2.v0.1691854732.720.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTwt5tHU1pEcnndGI6YYb-QHsOhaH3_Vgug&usqp=CAU" group-title="1-ACCION juanpablo", JP:AGENTE STONE opc3
+https://s08.ll1.lat/0:/p/agente_stone_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjgCkYt4SxU245nIdmXAAGiR9SpvkssnBr5Q&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:COMO MATAR A MAMA SD
+https://pc-08.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/29e20d2515720fdc3c41c90be55982dc/EP.0.2.v0.1691811725.360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjgCkYt4SxU245nIdmXAAGiR9SpvkssnBr5Q&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:COMO MATAR A MAMA HD
+https://pc-08.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/29e20d2515720fdc3c41c90be55982dc/EP.0.2.v0.1691811725.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFco21fU8UkoanouV1SgOpHEJQ6bpF3VxtKA&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:ZOEY 102 EL CASAMIENTO SD 2023
+https://pc-07.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/02daa060000ea7e96027e1857390b2a7/EP.0.2.v0.1691853329.360.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFco21fU8UkoanouV1SgOpHEJQ6bpF3VxtKA&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:ZOEY 102 EL CASAMIENTO HD 2023
+https://pc-07.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/02daa060000ea7e96027e1857390b2a7/EP.0.2.v0.1691853329.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaVDKA0KVCqzh2FcJsJ_exJVGCwsBWWL24-A&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:PAPAI E POP SD 2022
+https://pc-10.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/43c890468f5d903cb0d88fb5ea446981/EP.0.2.v0.1691759090.360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaVDKA0KVCqzh2FcJsJ_exJVGCwsBWWL24-A&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:PAPAI E POP HD 2022
+https://pc-10.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/43c890468f5d903cb0d88fb5ea446981/EP.0.2.v0.1691759090.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzkhzNvWac8iTem8yQ1utThZ90gWkSa9LNew&usqp=CAU" group-title="6-DRAMA juanpablo", JP:EL CURIOSO CASO DE BENJAMIN BUTTON SD 2008
+https://pc-11.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/972a8857600b13d63a24dec9076f9ffa/EP.0.1.v0.1677391654.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLGQ2CHpXtt7ZOZOK9f-r8n-Y5P5wYM1mgrw&usqp=CAU" group-title="12-ANIMACION juanpablo", JP:IAN UNA HISTORIA QUE NOS MOVILIZARA SD
+https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3493a490bfb4a693a89ea7e7153692c4/EP.0.1.v0.1677309774.360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLGQ2CHpXtt7ZOZOK9f-r8n-Y5P5wYM1mgrw&usqp=CAU" group-title="12-ANIMACION juanpablo", JP:IAN UNA HISTORIA QUE NOS MOVILIZARA HD
+https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3493a490bfb4a693a89ea7e7153692c4/EP.0.1.v0.1677309774.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/06/til-death-do-us-part.jpg" group-title="2-SUSPENSO juanpablo", JP:HASTA QUE LA MUERTE NOS SEPARE SD TIL DEATH DO US PART 2023
+https://pc-09.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9a861e4586d33a00c82002c46306ddd1/EP.0.2.v1.1691821291.360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/06/til-death-do-us-part.jpg" group-title="2-SUSPENSO juanpablo", JP:HASTA QUE LA MUERTE NOS SEPARE HD TIL DEATH DO US PART 2023
+https://pc-09.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9a861e4586d33a00c82002c46306ddd1/EP.0.2.v1.1691821291.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZXeG6y1LR9z5UjOrqfYRwcbs2rlu6n5ixg&usqp=CAU" group-title="10-CRIMEN juanpablo", JP:BREAK NIGHT SD 2018
+https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/eef9659b901f34703567de7a27983322/EP.0.2.v0.1691755631.360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZXeG6y1LR9z5UjOrqfYRwcbs2rlu6n5ixg&usqp=CAU" group-title="10-CRIMEN juanpablo", JP:BREAK NIGHT HD 2018
+https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/eef9659b901f34703567de7a27983322/EP.0.2.v0.1691755631.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uBG5Z7YHArc/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:SEGURIDAD MAXIMA SD A VIOLENT MAN 2022
+https://pc-19.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ea09865bea018dc137c59b1faac2a038/EP.0.2.v0.1691948141.360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uBG5Z7YHArc/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:SEGURIDAD MAXIMA HD A VIOLENT MAN 2022
+https://pc-19.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ea09865bea018dc137c59b1faac2a038/EP.0.2.v0.1691948141.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/p-epCfTeXNo/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:TIME SCAPE SD
+https://pc-27.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a9f38932d0484eb7031ee5cf72397f28/EP.0.2.v0.1691818558.360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/p-epCfTeXNo/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:TIME SCAPE HD
+https://pc-27.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a9f38932d0484eb7031ee5cf72397f28/EP.0.2.v0.1691818558.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyFWjAzLRfJTT3c13L7-woX5AQ7JR8iTOilg&usqp=CAU" group-title="8-CIENCIA FICCION juanpablo", JP:BABYLON 5 THE ROAD HOME SD
+https://pc-11.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/991a2c9129e3638b887755f93865fab8/EP.0.2.v0.1691754580.360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyFWjAzLRfJTT3c13L7-woX5AQ7JR8iTOilg&usqp=CAU" group-title="8-CIENCIA FICCION juanpablo", JP:BABYLON 5 THE ROAD HOME HD
+https://pc-11.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/991a2c9129e3638b887755f93865fab8/EP.0.2.v0.1691754580.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsg-6lC7SSkb2BLTag7ecyLjVYvHNfCZXdoA&usqp=CAU" group-title="8-CIENCIA FICCION juanpablo", JP:SKYLINES SD 2020
+https://pc-44.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/13e04d62cc217b35167b7c7daef0dd02/EP.0.0.v0.1677207753.360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsg-6lC7SSkb2BLTag7ecyLjVYvHNfCZXdoA&usqp=CAU" group-title="8-CIENCIA FICCION juanpablo", JP:SKYLINES HD 2020
+https://pc-44.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/13e04d62cc217b35167b7c7daef0dd02/EP.0.0.v0.1677207753.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p24608767_v_h8_ab.jpg" group-title="1-ACCION juanpablo", JP:FEAR THE NIGHT SD 2023
+https://pc-24.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a2817a2fd3bf312eb6e5ed5edac9763f/EP.0.0.v1.1691945768.360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p24608767_v_h8_ab.jpg" group-title="1-ACCION juanpablo", JP:FEAR THE NIGHT HD 2023
+https://pc-24.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a2817a2fd3bf312eb6e5ed5edac9763f/EP.0.0.v1.1691945768.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e7be6047f22ef3a6688450cb195d0bb9cbe6f0abd0273bb8d63b842998622120._UY500_UX667_RI_TTW_.jpg" group-title="3-TERROR juanpablo", JP:BODA SANGRIENTA SD 2019
+https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ba4c1d615b367d4820378ab653aef6b6/EP.0.2.v1.1677300009.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e7be6047f22ef3a6688450cb195d0bb9cbe6f0abd0273bb8d63b842998622120._UY500_UX667_RI_TTW_.jpg" group-title="3-TERROR juanpablo", JP:BODA SANGRIENTA HD 2019
+https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ba4c1d615b367d4820378ab653aef6b6/EP.0.2.v1.1677300009.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e7be6047f22ef3a6688450cb195d0bb9cbe6f0abd0273bb8d63b842998622120._UY500_UX667_RI_TTW_.jpg" group-title="3-TERROR juanpablo", JP:BODA SANGRIENTA 2019
+https://ia902702.us.archive.org/29/items/bod-san/Bod%20San.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyh2oaOS2XDDYxm7mdBj0TbYQxQDQb05mVg&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:THE DONOR PARTY SD 2023
+https://pc-15.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/33a5af2b5840b93467caeb5215891116/EP.0.1.v0.1691947415.360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyh2oaOS2XDDYxm7mdBj0TbYQxQDQb05mVg&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:THE DONOR PARTY HD 2023
+https://pc-15.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/33a5af2b5840b93467caeb5215891116/EP.0.1.v0.1691947415.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2023/03/the-resurrection-of-charles-manson-poster-1.jpg" group-title="2-SUSPENSO juanpablo", JP:THE RESURRECTION OF CHARLES MANSON SD
+https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d74535a0140b9501791569276bc12e6c/EP.0.1.v1.1691978771.360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2023/03/the-resurrection-of-charles-manson-poster-1.jpg" group-title="2-SUSPENSO juanpablo", JP:THE RESURRECTION OF CHARLES MANSON HD
+https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d74535a0140b9501791569276bc12e6c/EP.0.1.v1.1691978771.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15ZHrUNlf2N5bElil4ihITSfaZaWoWDYaYA&usqp=CAU" group-title="8-CIENCIA FICCION juanpablo", JP:PASAJEROS SD 2016
+https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/dd6b86402ef45306df6d34eb9f246d5a/EP.0.2.v0.1676341429.360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15ZHrUNlf2N5bElil4ihITSfaZaWoWDYaYA&usqp=CAU" group-title="8-CIENCIA FICCION juanpablo", JP:PASAJEROS HD 2016
+https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/dd6b86402ef45306df6d34eb9f246d5a/EP.0.2.v0.1676341429.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/AK7GTV5INBFNFG2N6CECQKHCRY.jpeg" group-title="12-ANIMACION juanpablo", JP:UP UNA AVENTURA DE ALTURA SD 2009
+https://pc-20.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4073c08d60a28c0cb70032cd7a1011b1/EP.0.1.v0.1677489424.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/AK7GTV5INBFNFG2N6CECQKHCRY.jpeg" group-title="12-ANIMACION juanpablo", JP:UP UNA AVENTURA DE ALTURA HD 2009
+https://pc-20.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4073c08d60a28c0cb70032cd7a1011b1/EP.0.1.v0.1677489424.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamai.sscdn.co/uploadfile/letras/playlists/3/8/f/2/38f2d450868545a7a97a4a3c6aff656d.jpg" group-title="20-INFANTILES juanpablo", JP:2 LA VIDA SECRETA DE TUS MASCOTAS 2 SD 2019
+https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/1172990af285c123f297783f1a2e972e/EP.0.2.v1.1676323680.360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://akamai.sscdn.co/uploadfile/letras/playlists/3/8/f/2/38f2d450868545a7a97a4a3c6aff656d.jpg" group-title="20-INFANTILES juanpablo", JP:2 LA VIDA SECRETA DE TUS MASCOTAS 2 HD 2019
+https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/1172990af285c123f297783f1a2e972e/EP.0.2.v1.1676323680.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamai.sscdn.co/uploadfile/letras/playlists/9/1/2/0/9120188cdafb42e8973893421cdc46d1.jpg" group-title="20-INFANTILES juanpablo", JP:LA VIDA SECRETA DE TUS MASCOTAS SD 2016
+https://pc-40.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9635a75588fb7b279a6438ba17aeba8/EP.0.2.v1.1676549749.360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://akamai.sscdn.co/uploadfile/letras/playlists/9/1/2/0/9120188cdafb42e8973893421cdc46d1.jpg" group-title="20-INFANTILES juanpablo", JP:LA VIDA SECRETA DE TUS MASCOTAS HD 2016
+https://pc-40.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9635a75588fb7b279a6438ba17aeba8/EP.0.2.v1.1676549749.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5R3xgOlPemA/sddefault.jpg" group-title="3-TERROR juanpablo", JP:NIGHTMARE RADIO EL ACOSADOR NOCTURNO SD
+https://pc-24.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9e313587f1eb3ab123f365b2878bf8ca/EP.0.0.v0.1692062230.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5R3xgOlPemA/sddefault.jpg" group-title="3-TERROR juanpablo", JP:NIGHTMARE RADIO EL ACOSADOR NOCTURNO HD
+https://pc-24.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9e313587f1eb3ab123f365b2878bf8ca/EP.0.0.v0.1692062230.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2023/01/blood-2022-horror-movie-review-980x640.jpg" group-title="9-MISTERIO juanpablo", JP:BLOOD SD 2023
+https://pc-09.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5f526cfa0fb3fd45abdf552fa8952936/EP.0.2.v1.1691983836.360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2023/01/blood-2022-horror-movie-review-980x640.jpg" group-title="9-MISTERIO juanpablo", JP:BLOOD HD 2023
+https://pc-09.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5f526cfa0fb3fd45abdf552fa8952936/EP.0.2.v1.1691983836.720.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2023/01/blood-2022-horror-movie-review-980x640.jpg" group-title="9-MISTERIO juanpablo", JP:BLOOD opc3 2023
+https://s09.ll1.lat/0:/p/sed_incontrolable_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/video-thumbnails/koHgmzYrlCpWEvzgYzj.jpg" group-title="11-ROMANCE juanpablo", JP:ROJO BLANCO Y SANGRE AZUL SD 2023
+https://pc-21.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/13d55bd95ca7c6fbe1ebe0bbb260d178/EP.0.2.v3.1691773810.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/video-thumbnails/koHgmzYrlCpWEvzgYzj.jpg" group-title="11-ROMANCE juanpablo", JP:ROJO BLANCO Y SANGRE AZUL HD 2023
+https://pc-21.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/13d55bd95ca7c6fbe1ebe0bbb260d178/EP.0.2.v3.1691773810.720.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/video-thumbnails/koHgmzYrlCpWEvzgYzj.jpg" group-title="11-ROMANCE juanpablo", JP:ROJO BLANCO Y SANGRE AZUL opc3 2023
+https://s09.ll1.lat/0:/p/rojo_blanco_y_sangre_azul_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkxN2VjMjctMzQ1OS00NzI3LWIzNTQtNDQxNGVlMTllNzY3XkEyXkFqcGdeQXVyMzUwNDIxMjQ@._V1_.jpg" group-title="1-ACCION juanpablo", JP:JAGUN JAGUN THE WARRIOR SD esp
+https://pc-08.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8fc8fde79de7f1a8e14a62c5fca3af56/EP.0.2.v2.1691989351.360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkxN2VjMjctMzQ1OS00NzI3LWIzNTQtNDQxNGVlMTllNzY3XkEyXkFqcGdeQXVyMzUwNDIxMjQ@._V1_.jpg" group-title="1-ACCION juanpablo", JP:JAGUN JAGUN THE WARRIOR HD esp
+https://pc-08.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8fc8fde79de7f1a8e14a62c5fca3af56/EP.0.2.v2.1691989351.720.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkxN2VjMjctMzQ1OS00NzI3LWIzNTQtNDQxNGVlMTllNzY3XkEyXkFqcGdeQXVyMzUwNDIxMjQ@._V1_.jpg" group-title="1-ACCION juanpablo", JP:JAGUN JAGUN THE WARRIOR SD
+https://pc-08.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8fc8fde79de7f1a8e14a62c5fca3af56/EP.0.0.v0.1691862358.360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkxN2VjMjctMzQ1OS00NzI3LWIzNTQtNDQxNGVlMTllNzY3XkEyXkFqcGdeQXVyMzUwNDIxMjQ@._V1_.jpg" group-title="1-ACCION juanpablo", JP:JAGUN JAGUN THE WARRIOR HD
+https://pc-08.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8fc8fde79de7f1a8e14a62c5fca3af56/EP.0.0.v0.1691862358.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kmsf6Sj-lm0/XnOBo5ZZlPI/AAAAAAAAzTs/LhIIsElJxp8WIet3TciPUh-6cqw1jWAbwCLcBGAsYHQ/w1200-h630-p-k-no-nu/SPHE-11122536-Full-Image_GalleryCover-en-US-1581660939048._UY500_UX667_RI_VqcLtgLM2juE2s224RinmILLZJx6tF12_TTW_.jpg" group-title="4-COMEDIA juanpablo", JP:HOLLY SLEPT OVER SD 2020
+https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c2baa34dd5ef9ebdacbfaf86d0f8d779/EP.0.2.v0.1691755464.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kmsf6Sj-lm0/XnOBo5ZZlPI/AAAAAAAAzTs/LhIIsElJxp8WIet3TciPUh-6cqw1jWAbwCLcBGAsYHQ/w1200-h630-p-k-no-nu/SPHE-11122536-Full-Image_GalleryCover-en-US-1581660939048._UY500_UX667_RI_VqcLtgLM2juE2s224RinmILLZJx6tF12_TTW_.jpg" group-title="4-COMEDIA juanpablo", JP:HOLLY SLEPT OVER HD 2020
+https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c2baa34dd5ef9ebdacbfaf86d0f8d779/EP.0.2.v0.1691755464.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_latam/screenshot/default/caos-mutante_s5c5.1200.jpg" group-title="12-ANIMACION juanpablo", JP:TORTUGAS NINJA CAOS MUTANTE SD 2023
+https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4f5a65cb683a0468a25bdd7b1c0af3cc/EP.0.2.v1.1691940187.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_latam/screenshot/default/caos-mutante_s5c5.1200.jpg" group-title="12-ANIMACION juanpablo", JP:TORTUGAS NINJA CAOS MUTANTE HD 2023
+https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4f5a65cb683a0468a25bdd7b1c0af3cc/EP.0.2.v1.1691940187.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_latam/screenshot/default/caos-mutante_s5c5.1200.jpg" group-title="12-ANIMACION juanpablo", JP:TORTUGAS NINJA CAOS MUTANTE 2023
+https://ia802709.us.archive.org/7/items/tort-ni/Tort%20%20ni.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/I8P9ZSNUHMs/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:EMPEROR SD 2020
+https://yznq.vizcloud.lol/simple/EqPFJvsQWADtjDlGha7rC5Iu_FxZ5eXpFAJ7rqk+wYkqUtAcS2El_Po4w1ynT_yP+tCUWdspkQ/br/H1/v.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/Xqwq6jhWpPhflhRtbogM0m4zDG.jpg" group-title="6-DRAMA juanpablo", JP:EL PESO DE LA DUDA SD
+https://pc-23.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3b66dc9d66b7326094fb66ada7cb9e0d/EP.0.1.v0.1691833963.360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/Xqwq6jhWpPhflhRtbogM0m4zDG.jpg" group-title="6-DRAMA juanpablo", JP:EL PESO DE LA DUDA HD
+https://pc-23.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3b66dc9d66b7326094fb66ada7cb9e0d/EP.0.1.v0.1691833963.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7Ad5Yo79aCg/hqdefault.jpg" group-title="1-ACCION juanpablo", JP:GARORA DA MOTO SD MOTOGIRL 2021
+https://pc-04.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/254e7f2841de8d36dca3e3d27ec75afb/EP.0.2.v0.1676287901.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7Ad5Yo79aCg/hqdefault.jpg" group-title="1-ACCION juanpablo", JP:GARORA DA MOTO HD MOTOGIRL 2021
+https://pc-04.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/254e7f2841de8d36dca3e3d27ec75afb/EP.0.2.v0.1676287901.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2020/03/la-ninera-debe-morir-min.jpg" group-title="3-TERROR juanpablo", JP:LA NINERA DEBE MORIR SD 2021
+https://pc-17.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9c358eb9fe9325a8c82f471eeb0051c3/EP.0.2.v0.1692153721.360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2020/03/la-ninera-debe-morir-min.jpg" group-title="3-TERROR juanpablo", JP:LA NINERA DEBE MORIR HD 2021
+https://pc-17.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9c358eb9fe9325a8c82f471eeb0051c3/EP.0.2.v0.1692153721.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fU2CFwVuL9A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBjNrltpwqBzh5vflGd-Tdbil8fLw" group-title="15-GUERRA juanpablo", JP:TERROR EN SIRIA
+https://ia601808.us.archive.org/17/items/terror-n-siria/Terror%20n%20siria.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7afFteJ9bL8/mqdefault.jpg" group-title="1-ACCION juanpablo", JP:MISSING PERSONS SD
+https://pc-24.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7402e6342056ddd1c22c09a73ea1c2ae/EP.0.2.v0.1692250928.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7afFteJ9bL8/mqdefault.jpg" group-title="1-ACCION juanpablo", JP:MISSING PERSONS HD
+https://pc-24.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7402e6342056ddd1c22c09a73ea1c2ae/EP.0.2.v0.1692250928.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/programs/l/a/-/la-historia-secreta-del-monopoly-1168568_SPA-21.jpg" group-title="7-DOCUMENTAL juanpablo", JP:MONOPOLY LA HISTORIA DEL JUEGO SD
+https://pc-11.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7d613b95e344a6e9512284ddcee953c3/EP.0.1.v0.1692258862.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/programs/l/a/-/la-historia-secreta-del-monopoly-1168568_SPA-21.jpg" group-title="7-DOCUMENTAL juanpablo", JP:MONOPOLY LA HISTORIA DEL JUEGO HD
+https://pc-11.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7d613b95e344a6e9512284ddcee953c3/EP.0.1.v0.1692258862.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wpMHBRmT0MA/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:ALIEN INVASION SD
+https://pc-23.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7add4d24b55ad606446db07821885b82/EP.0.2.v0.1692253720.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wpMHBRmT0MA/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:ALIEN INVASION HD
+https://pc-23.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7add4d24b55ad606446db07821885b82/EP.0.2.v0.1692253720.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Rmvmoq4fPrI/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:GOATMAN SD EL HOMBRE CABRA
+https://pc-19.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/b444c8b5dc798fb4b889d00b2d901afa/EP.0.2.v0.1692252457.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Rmvmoq4fPrI/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:GOATMAN HD EL HOMBRE CABRA
+https://pc-19.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/b444c8b5dc798fb4b889d00b2d901afa/EP.0.2.v0.1692252457.720.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
 
 
